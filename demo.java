@@ -1,0 +1,5 @@
+I have written additional functiaonality program.
+a=5;
+b=10;
+sum =a + b;
+
